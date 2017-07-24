@@ -36,97 +36,47 @@ p, li {
 }
 
 .navbar-nav{
-    margin-left: 26%;
+    margin-left: 23%;
 
 }
 
-.parallax1{
+.col-md-3 img {
     width: 100%;
-    /* The image used */
-    background-image: url("FotoJet2.jpg");
-
-    /* Set a specific height */
-    min-height: 400px; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
+    height: 300px;
     background-repeat: no-repeat;
-    /*background-size: cover;*/
+    background-position: center center;
+    background-size: cover;
+    image-rendering: auto;
+    -webkit-box-shadow: inset -2px -36px 0px 0px rgba(237,237,237,0.41);
+    -moz-box-shadow: inset -2px -36px 0px 0px rgba(237,237,237,0.41);
+    box-shadow: inset 0px -36px 0px 0px rgba(237,237,237,0.41);
 }
 
-.parallax2{
-    /* The image used */
-    background-image: url("FotoJet2.jpg");
-
-    /* Set a specific height */
-    min-height: 400px; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
+.col-md-4 img{
+    width: 100%;
+    height: 300px;
     background-repeat: no-repeat;
-    /*background-size: cover;*/
+    background-position: center center;
+    background-size: cover;
+    image-rendering: auto;
+    -webkit-box-shadow: inset -2px -36px 0px 0px rgba(237,237,237,0.41);
+    -moz-box-shadow: inset -2px -36px 0px 0px rgba(237,237,237,0.41);
+    box-shadow: inset 0px -36px 0px 0px rgba(237,237,237,0.41);
 }
 
-.parallax3{
-    /* The image used */
-    background-image: url("FotoJet2.jpg");
-
-    /* Set a specific height */
-    min-height: 400px; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
+.col-md-6 img{
+    width: 100%;
+    height: 300px;
     background-repeat: no-repeat;
-    /*background-size: cover;*/
+    background-position: center center;
+    background-size: cover;
+    image-rendering: auto;
+    -webkit-box-shadow: inset -2px -36px 0px 0px rgba(237,237,237,0.41);
+    -moz-box-shadow: inset -2px -36px 0px 0px rgba(237,237,237,0.41);
+    box-shadow: inset 0px -36px 0px 0px rgba(237,237,237,0.41);
 }
 
-.parallax4{
-    /* The image used */
-    background-image: url("FotoJet2.jpg");
-
-    /* Set a specific height */
-    min-height: 400px; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    /*background-size: cover;*/
-}
-
-.parallax5{
-    /* The image used */
-    background-image: url("FotoJet2.jpg");
-
-    /* Set a specific height */
-    min-height: 400px; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    /*background-size: cover;*/
-}
-
-.parallax6{
-    /* The image used */
-    background-image: url("FotoJet2.jpg");
-
-    /* Set a specific height */
-    min-height: 400px; 
-
-    /* Create the parallax scrolling effect */
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
-/* Turn off parallax scrolling for tablets and phones. Increase/decrease the pixels if needed */
-@media only screen and (max-device-width: 1024px) {
-    .parallax {
-        background-attachment: scroll;
-    }
+.col-md-12 img{
+    margin-top: 40px;
+    margin-bottom: 40px;
 }
