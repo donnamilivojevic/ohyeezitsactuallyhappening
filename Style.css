@@ -13,6 +13,11 @@
     src: url("MicroFLF-Bold.ttf");
 }
 
+@font-face {
+    font-family: MicroFLF;
+    src: url("MicroFLF.ttf");
+}
+
 body {
     font-family: Avenir;
 }
@@ -32,6 +37,7 @@ p, li {
 
 .navbar-nav{
     margin-left: 26%;
+
 }
 
 .parallax1{
