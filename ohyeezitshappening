@@ -4,7 +4,17 @@
     <body>
         <style>
             @font-face { font-family: Gemoetrica Light; src: url(gemoteria-light-webfont.woff); }
-            </style>
+
+            h1{
+                font-family: geometrica-light-webfont
+            }
+
+
+</style>
+
+    <h1>
+        Donna & Paul
+    </h1>
     </body>
 </head>
 </html>
