@@ -1,3 +1,25 @@
+@font-face {
+    font-family: Avenir;
+    src: url('https://www.fontify.me/wf/8a4d709e5a5b2ca4fdadb6948053db36');
+}
+
+@font-face {
+    font-family: NordicaHairline;
+    src: url('NordicaHairline.otf');
+}
+
+body {
+    font-family: Avenir;
+}
+
+h1 {
+    font-family: NordicaHairline;
+}
+
+p, li {
+    font-size: 17px;
+}
+
 .dropdown{
     margin-left: 150px;
     margin-top: 2%;
