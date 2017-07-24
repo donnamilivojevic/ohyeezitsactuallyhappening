@@ -1,0 +1,107 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+             
+    
+    <meta charset="utf-8"/>
+<title>itshappening</title>
+<meta name="fb_admins_meta_tag" content=""/>
+<link rel="shortcut icon" href="https://www.wix.com/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="https://www.wix.com/favicon.ico" type="image/x-icon"/>
+    <script type="text/javascript">
+    var santaBase = 'https://static.parastorage.com/services/santa/1.2367.17';
+                var clientSideRender = true;
+                </script>
+
+<script defer src="https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js"></script>
+<script defer src="https://static.parastorage.com/services/santa/1.2367.17/app/main-r.min.js"></script>
+
+
+<link rel="prefetch" href="https://static.parastorage.com/services/third-party/react/0.14.3/react-with-addons.min.js">
+<link rel="prefetch" href="https://static.parastorage.com/services/third-party/tweenmax/1.19.0/minified/TweenMax.min.js">
+<link rel="prefetch" href="https://static.parastorage.com/services/third-party/lodash/4.17.4/dist/lodash.min.js">
+
+<link rel="preconnect" href="https://static.wixstatic.com/">
+<link rel="preconnect" href="//fonts.googleapis.com">
+    <meta http-equiv="X-Wix-Renderer-Server" content="app-jvm12a.42.wixprod.net"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="40cf9374-e729-4a50-acac-c52b919992a5"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="81ae7a4b-a730-4946-bbb0-604ff2700fdb"/>
+<meta http-equiv="X-Wix-Published-Version" content="127"/>
+
+<meta http-equiv="etag" content="d59e23bfc48b3714fe6cc3c880bfd939"/>
+<meta name="robots" content="noindex"/>
+<meta property="og:title" content="itshappening"/>
+<meta property="og:type" content="article"/>
+<meta property="og:url" content="https://emailaddresstoreac.wixsite.com/itshappening"/>
+<meta property="og:site_name" content="itshappening"/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="width=980, user-scalable=yes"/>
+
+
+
+        
+
+    <script>
+    // BEAT MESSAGE
+    try {
+        window.wixBiSession = {
+            initialTimestamp : Date.now(),
+                        viewerSessionId: 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c)
+                    { var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8); return v.toString(16); }
+            )
+                    };
+        (new Image()).src = 'https://frog.wix.com/bt?src=29&evid=3&pn=1&et=1&v=1.2367.17&msid=40cf9374-e729-4a50-acac-c52b919992a5&vsi=' + wixBiSession.viewerSessionId +
+                '&url=' + encodeURIComponent(location.href.replace(/^http(s)?:\/\/(www\.)?/, '')) +
+                '&isp=0&st=2&ts=0&c=' + wixBiSession.initialTimestamp;
+    } catch (e){}
+    // BEAT MESSAGE END
+</script>
+
+    
+
+    <!-- META DATA -->
+<script type="text/javascript">
+
+    var serviceTopology = {"serverName":"app-jvm12a.42.wixprod.net","cacheKillerVersion":"1","staticServerUrl":"https://static.parastorage.com/","usersScriptsRoot":"https://static.parastorage.com/services/wix-users/2.660.0","biServerUrl":"https://frog.wix.com/","userServerUrl":"https://users.wix.com/","billingServerUrl":"https://premium.wix.com/","mediaRootUrl":"https://static.wixstatic.com/","logServerUrl":"https://frog.wix.com/plebs","monitoringServerUrl":"https://TODO/","usersClientApiUrl":"https://users.wix.com/wix-users","publicStaticBaseUri":"https://static.parastorage.com/services/wix-public/1.231.0","basePublicUrl":"https://www.wix.com/","postLoginUrl":"https://www.wix.com/my-account","postSignUpUrl":"https://www.wix.com/new/account","baseDomain":"wix.com","staticMediaUrl":"https://static.wixstatic.com/media","staticAudioUrl":"https://music.wixstatic.com/mp3","staticDocsUrl":"https://docs.wixstatic.com/ugd","emailServer":"https://assets.wix.com/common-services/notification/invoke","blobUrl":"https://static.parastorage.com/wix_blob","htmlEditorUrl":"http://editor.wix.com/html","siteMembersUrl":"https://users.wix.com/wix-sm","scriptsLocationMap":{"santa-versions":"https://static.parastorage.com/services/santa-versions/1.419.0","dbsm-viewer-app":"https://static.parastorage.com/services/dbsm-viewer-app/1.101.0","wix-music-embed":"https://static.parastorage.com/services/wix-music-embed/1.26.0","santa-resources":"https://static.parastorage.com/services/santa-resources/1.2.0","wixapps":"https://static.parastorage.com/services/wixapps/2.486.0","ecommerce":"https://static.parastorage.com/services/ecommerce/1.203.0","dbsm-editor-app":"https://static.parastorage.com/services/dbsm-editor-app/1.275.0","langs":"https://static.parastorage.com/services/langs/2.568.0","automation":"https://static.parastorage.com/services/automation/1.23.0","web":"https://static.parastorage.com/services/web/2.1229.72","sitemembers":"https://static.parastorage.com/services/sm-js-sdk/1.31.0","js-wixcode-sdk":"https://static.parastorage.com/services/js-wixcode-sdk/1.147.0","tpa":"https://static.parastorage.com/services/tpa/2.1062.0","santa":"https://static.parastorage.com/services/santa/1.2367.17","skins":"https://static.parastorage.com/services/skins/2.1229.72","core":"https://static.parastorage.com/services/core/2.1229.72","santa-members-viewer-app":"https://static.parastorage.com/services/santa-members-viewer-app/1.5.0","ck-editor":"https://static.parastorage.com/services/ck-editor/1.87.3","bootstrap":"https://static.parastorage.com/services/bootstrap/2.1229.72","santa-members-editor-app":"https://static.parastorage.com/services/santa-members-editor-app/1.6.0"},"developerMode":false,"productionMode":true,"staticServerFallbackUrl":"https://sslstatic.wix.com/","staticVideoUrl":"https://video.wixstatic.com/","cloudStorageUrl":"https://static.wixstatic.com/","usersDomainUrl":"https://users.wix.com/wix-users","scriptsDomainUrl":"https://static.parastorage.com/","userFilesUrl":"https://static.parastorage.com/","staticHTMLComponentUrl":"https://emailaddresstoreac-wixsite-com.usrfiles.com/","secured":true,"ecommerceCheckoutUrl":"https://www.safer-checkout.com/","premiumServerUrl":"https://premium.wix.com/","digitalGoodsServerUrl":"https://dgs.wixapps.net/","wixCloudBaseDomain":"wix-code.com","mailServiceSuffix":"/_api/common-services/notification/invoke","staticVideoHeadRequestUrl":"https://storage.googleapis.com/video.wixstatic.com","protectedPageResolverUrl":"https://site-pages.wix.com/_api/wix-public-html-info-webapp/resolve_protected_page_urls","mediaUploadServerUrl":"https://files.wix.com/","publicStaticsUrl":"https://static.parastorage.com/services/wix-public/1.231.0"};
+    var santaModels = true;
+    var rendererModel = {"metaSiteId":"40cf9374-e729-4a50-acac-c52b919992a5","siteInfo":{"documentType":"UGC","applicationType":"HtmlWeb","siteId":"81ae7a4b-a730-4946-bbb0-604ff2700fdb","siteTitleSEO":"itshappening"},"clientSpecMap":{"2595":{"type":"public","applicationId":2595,"appDefinitionId":"1397817e-3428-11c5-6751-79acf34f2f34","appDefinitionName":"Social Media Stream","instance":"SN_1e6Ym1-NWWiIpo-XaszYmNYTGn40uObhCUy3gDZk.eyJpbnN0YW5jZUlkIjoiMWQ0OGU2ZjEtZGIxMS00ZGZhLWIyYjktMTExODZhODc5Yjg1IiwiYXBwRGVmSWQiOiIxMzk3ODE3ZS0zNDI4LTExYzUtNjc1MS03OWFjZjM0ZjJmMzQiLCJzaWduRGF0ZSI6IjIwMTctMDctMjRUMDY6MTc6NTAuODM0WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiODEuMjMzLjE0MC44LzU5ODY2IiwidmVuZG9yUHJvZHVjdElkIjpudWxsLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6ImQ0MjYzM2VlLWI0YjQtNGFiYy05NmY5LTRiZDY5MDMzY2QxZSIsInNpdGVPd25lcklkIjoiZWMwNWFlYmUtMjQ0ZC00ODk0LTk4NGMtOTU4YzNhOWIyNWY3In0","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"139781a0-05d8-a054-19d7-4ea2424cf291":{"widgetUrl":"https:\/\/app.socialstream.io\/wix\/widget","widgetId":"139781a0-05d8-a054-19d7-4ea2424cf291","refreshOnWidthChange":true,"mobileUrl":"https:\/\/app.socialstream.io\/wix\/mobile","published":true,"mobilePublished":true,"seoEnabled":true,"preFetch":false,"shouldBeStretchedByDefault":false,"shouldBeStretchedByDefaultMobile":false}},"appRequirements":{"requireSiteMembers":false},"isWixTPA":false,"installedAtDashboard":true,"permissions":{"revoked":false}},"2400":{"type":"public","applicationId":2400,"appDefinitionId":"14635256-b183-1c71-a4d2-f55179b80e8a","appDefinitionName":"Instagram Feed","instance":"RpK2uea2PSokmOUqFnnFttMsF6ttI_yt0YjuGbflgfM.eyJpbnN0YW5jZUlkIjoiNGI1ZmJhY2QtYzU2NC00NTFlLWEwMmEtNzllZTkyYWQ5YWNjIiwiYXBwRGVmSWQiOiIxNDYzNTI1Ni1iMTgzLTFjNzEtYTRkMi1mNTUxNzliODBlOGEiLCJzaWduRGF0ZSI6IjIwMTctMDctMjRUMDY6MTc6NTAuODM0WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiODEuMjMzLjE0MC44LzU5ODY2IiwidmVuZG9yUHJvZHVjdElkIjpudWxsLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6ImQ0MjYzM2VlLWI0YjQtNGFiYy05NmY5LTRiZDY5MDMzY2QxZSIsImJpVG9rZW4iOiIwYjkwMjliOS0yMjRkLTBmNGUtMGM4Ni1iY2M1MDMzNDA4NjkiLCJzaXRlT3duZXJJZCI6ImVjMDVhZWJlLTI0NGQtNDg5NC05ODRjLTk1OGMzYTliMjVmNyJ9","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"14635280-8c8d-5346-b643-691f84f48973":{"widgetUrl":"https:\/\/instafeed.codev.wixapps.net\/widget","widgetId":"14635280-8c8d-5346-b643-691f84f48973","refreshOnWidthChange":true,"mobileUrl":"https:\/\/instafeed.codev.wixapps.net\/mobile","published":true,"mobilePublished":true,"seoEnabled":true,"preFetch":false,"shouldBeStretchedByDefault":false,"shouldBeStretchedByDefaultMobile":false}},"appRequirements":{"requireSiteMembers":false},"isWixTPA":true,"installedAtDashboard":false,"permissions":{"revoked":true}},"1487":{"type":"public","applicationId":1487,"appDefinitionId":"140603ad-af8d-84a5-2c80-a0f60cb47351","appDefinitionName":"Wix Events","instance":"BoIVes05vfGT0KgTCIcnwNkivKFcFQXpml8FTgok9tQ.eyJpbnN0YW5jZUlkIjoiNTJiYWE2ZTEtMGU5Yy00ZDJjLWE0ZDEtYmQwZDNkMWQxMzQwIiwiYXBwRGVmSWQiOiIxNDA2MDNhZC1hZjhkLTg0YTUtMmM4MC1hMGY2MGNiNDczNTEiLCJzaWduRGF0ZSI6IjIwMTctMDctMjRUMDY6MTc6NTAuODM0WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiODEuMjMzLjE0MC44LzU5ODY2IiwidmVuZG9yUHJvZHVjdElkIjpudWxsLCJkZW1vTW9kZSI6ZmFsc2UsIm9yaWdpbkluc3RhbmNlSWQiOiI1NWFkMjY0MS0zZjQ2LTQ3NjMtOWU1OS0yZWQwYTcyNTU1YzYiLCJhaWQiOiJkNDI2MzNlZS1iNGI0LTRhYmMtOTZmOS00YmQ2OTAzM2NkMWUiLCJiaVRva2VuIjoiMTI3NTM1OTUtZTliNS0wNzdjLTA4N2QtNzgyNmFjODQ4MWU1Iiwic2l0ZU93bmVySWQiOiJlYzA1YWViZS0yNDRkLTQ4OTQtOTg0Yy05NThjM2E5YjI1ZjcifQ","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"14b70df3-4e8b-07b8-534e-d3db1d6c9cdb":{"widgetUrl":"https:\/\/events.wix.com\/event","widgetId":"14b70df3-4e8b-07b8-534e-d3db1d6c9cdb","refreshOnWidthChange":true,"mobileUrl":"https:\/\/events.wix.com\/event","appPage":{"id":"events_page","name":"Events_page","defaultPage":"","hidden":true,"multiInstanceEnabled":false,"order":1,"indexable":false,"fullPage":false,"landingPageInMobile":false,"hideFromMenu":true},"published":false,"mobilePublished":false,"seoEnabled":false,"preFetch":false,"shouldBeStretchedByDefault":false,"shouldBeStretchedByDefaultMobile":false},"14d2abc2-5350-6322-487d-8c16ff833c8a":{"widgetUrl":"https:\/\/events.wix.com\/event","widgetId":"14d2abc2-5350-6322-487d-8c16ff833c8a","refreshOnWidthChange":true,"mobileUrl":"https:\/\/events.wix.com\/event","appPage":{"id":"events","name":"Events","defaultPage":"","hidden":true,"multiInstanceEnabled":false,"order":2,"indexable":true,"fullPage":false,"landingPageInMobile":false,"hideFromMenu":true},"published":true,"mobilePublished":true,"seoEnabled":false,"preFetch":false,"shouldBeStretchedByDefault":true,"shouldBeStretchedByDefaultMobile":false},"1440e92d-47d8-69be-ade7-e6de40127106":{"widgetUrl":"https:\/\/events.wix.com\/index.html","widgetId":"1440e92d-47d8-69be-ade7-e6de40127106","refreshOnWidthChange":true,"mobileUrl":"https:\/\/events.wix.com\/index.html","published":true,"mobilePublished":true,"seoEnabled":true,"preFetch":false,"shouldBeStretchedByDefault":false,"shouldBeStretchedByDefaultMobile":false}},"appRequirements":{"requireSiteMembers":false},"isWixTPA":true,"installedAtDashboard":true,"permissions":{"revoked":false}},"13":{"type":"sitemembers","applicationId":13,"collectionType":"Open","collectionFormFace":"Register","smcollectionId":"58503bd5-1f0b-418d-934c-8a1bdd4b58b2"},"2":{"type":"appbuilder","applicationId":2,"appDefinitionId":"3d590cbc-4907-4cc4-b0b1-ddf2c5edf297","instanceId":"8c02e15e-6c1f-4688-b403-efe412f21097","state":"Initialized"},"3":{"type":"public","applicationId":3,"appDefinitionId":"1480c568-5cbd-9392-5604-1148f5faffa0","appDefinitionName":"Wix SEO Wiz","instance":"VZPk-qPJpYcVNA1qsgSI1-uE-uDShyqg1aU1mp6BR_Q.eyJpbnN0YW5jZUlkIjoiMjQxMTJjMjgtMDM5Ny00M2YzLTk0NDctZjBmZWNjZTliZmQ0IiwiYXBwRGVmSWQiOiIxNDgwYzU2OC01Y2JkLTkzOTItNTYwNC0xMTQ4ZjVmYWZmYTAiLCJzaWduRGF0ZSI6IjIwMTctMDctMjRUMDY6MTc6NTAuODM1WiIsInVpZCI6bnVsbCwiaXBBbmRQb3J0IjoiODEuMjMzLjE0MC44LzU5ODY2IiwidmVuZG9yUHJvZHVjdElkIjpudWxsLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6ImQ0MjYzM2VlLWI0YjQtNGFiYy05NmY5LTRiZDY5MDMzY2QxZSIsImJpVG9rZW4iOiI2NGRlYmY1Yy1lNGJlLTA5YTMtMzhlYi0zNWQ1NWQ3MDJkNzEiLCJzaXRlT3duZXJJZCI6ImVjMDVhZWJlLTI0NGQtNDg5NC05ODRjLTk1OGMzYTliMjVmNyJ9","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{},"appRequirements":{"requireSiteMembers":false},"isWixTPA":true,"installedAtDashboard":true,"permissions":{"revoked":false}}},"premiumFeatures":[],"geo":"SWE","languageCode":"sv","previewMode":false,"userId":"ec05aebe-244d-4894-984c-958c3a9b25f7","siteMetaData":{"preloader":{"uri":"","enabled":false},"adaptiveMobileOn":true,"quickActions":{"socialLinks":[],"colorScheme":"dark","configuration":{"quickActionsMenuEnabled":false,"navigationMenuEnabled":true,"phoneEnabled":false,"emailEnabled":false,"addressEnabled":false,"socialLinksEnabled":false}},"contactInfo":{"companyName":"","phone":"","fax":"","email":"","address":""}},"runningExperiments":{"appMarketCache":"new","sv_textLinkWhiteList":"new","sv_platform1":"new","reactAppMarketModals":"new","sv_hoverBox":"new","sv_dpages":"new","clickToAction_email":"new","sv_smSocialLoginEnabledByDefault":"new","sv_ampLinkTag":"new","connectionsData":"new","sv_remove_headTagsSaveDataFixer":"new","sv_twitterMetaTags":"new","sv_mobileBgFixed":"new","sv_blogTranslateErrorMessage":"new","sv_listsBatchRequest":"new","sv_blogRelatedPosts":"new","sv_expandModeBi":"new","unescapeHeadTags":"old","sv_reportPerformance":"new","clickToAction_url":"new","sv_cssDesignData":"new","useBeaconForPerformanceEvent":"new","sv_blogCountersHttpsRequest":"new","viewPortImageLoadingBi":"3000","sv_webpJPGSupport":"new","sv_addFirstTimeRenderBiEvents":"new","reactAppMarket":"new","sv_delelteItemsRecursively":"new","fontsTrackingInViewer":"new","tpaHideFromMenu":"new","sv_blogSocialCounters":"new","sv_addJsonldToHeadForSEO":"new","sv_remove_backgroundsSaveDataFixer":"new","clickToAction_phone":"new","viewPortImageLoading":"new","allowScriptTagTypeJsonOnSeoMetatag":"old","sv_fixColorOfHatulOnHover":"new","autosaveTpaSettle":"new","retryOnConcurrencyError":"new","permalinkWithoutDate":"new","ds_syncDeletedItemsFromServer":"new","sv_faviconFromServer":"new","sv_mobileBG":"new","pageListNewFormat":"new","sv_blogAuthorAsALink":"new","se_ignoreBottomBottomAnchors":"new","ds_saveState":"new","packagescache":"new","fontScaling":"new","autosaveWixappsSettle":"new","sv_tpaMultiWidget":"new","hashPasswordOnServer":"new","sv_tpaAddChatApp":"new","sv_blogOldUrlShareFix":"new","sv_SendSdkMethodBI":"new","sv_addBorderToElementBounds":"new","sv_partialReLayout":"new","sv_blogNotifySocialCounters":"new","sv_qab":"new","sv_blogLikeCounters":"new","sv_robotsIndexingMetaTag":"new","sv_ignoreBottomBottomAnchors":"new","sv_addBlogPerformanceBiEvents":"new","sv_grid":"new","sv_NewFacebookConversionPixel":"new","sv_mobileSpachtelPattern":"new","sv_tpaPerformanceBi":"new","sv_unpackTextMeasureByMinHeight":"new","sv_alwaysEnableMobileZoom":"new"},"urlFormatModel":{"format":"slash","forbiddenPageUriSEOs":["app","apps","_api","robots.txt","sitemap.xml","feed.xml","sites"],"pageIdToResolvedUriSEO":{}},"passwordProtectedPages":[],"useSandboxInHTMLComp":true,"siteMediaToken":"eyJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJhcHA6MzQ2NjQ5MDcwMDI5NzIwNiIsInN1YiI6InVzZXI6ZWMwNWFlYmUtMjQ0ZC00ODk0LTk4NGMtOTU4YzNhOWIyNWY3IiwiYXVkIjoidXJuOnNlcnZpY2U6ZmlsZS51cGxvYWQiLCJleHAiOjE1MDE0ODE4NzAsImlhdCI6MTUwMDg3NzA3MCwianRpIjoiYTNMUy05UmYtUUQ4RHVWb1FYbnFpUSJ9.dmCi4lX-D3yQUUWgJCnzBKjXyMk953DRYg1AmWwC9Fc","pagesPlatformApplications":{}};
+    var publicModel = {"domain":"wixsite.com","externalBaseUrl":"https:\/\/emailaddresstoreac.wixsite.com\/itshappening","unicodeExternalBaseUrl":"https:\/\/emailaddresstoreac.wixsite.com\/itshappening","pageList":{"pages":[{"pageId":"pnl1d","title":"Information","pageUriSEO":"information","pageJsonFileName":"ec05ae_8742a354d973a7142c90ea80b3e71402_107.json"},{"pageId":"b2skx","title":"About Us","pageUriSEO":"about-us","pageJsonFileName":"ec05ae_94552941357bb2e2a9cc3588442cccd1_125.json"},{"pageId":"jft5v","title":"Social Media","pageUriSEO":"social-media","pageJsonFileName":"ec05ae_e9395ae68b4062e0e404fd9b462cce4a_107.json"},{"pageId":"n9j5f","title":"RSVP","pageUriSEO":"rsvp","pageJsonFileName":"ec05ae_d4831f462034922488c478dd6d74d133_123.json"},{"pageId":"im2ej","title":"Events","pageUriSEO":"events","pageJsonFileName":"ec05ae_dd297b78883325834acc2c92fc7e0b31_109.json"},{"pageId":"p557c","title":"HOME","pageUriSEO":"home","pageJsonFileName":"ec05ae_6a6fafdad82233dab4a66892d625e0c6_125.json"},{"pageId":"zvl2n","title":"Directions","pageUriSEO":"directions","pageJsonFileName":"ec05ae_43eff891655d3e3a80c04b2111d72ff0_125.json"},{"pageId":"hua9l","title":"Högberga Gård","pageUriSEO":"hoegberga-gard","pageJsonFileName":"ec05ae_603ca46822ec015e0f3258c6bca58bf4_125.json"}],"mainPageId":"p557c","masterPageJsonFileName":"ec05ae_94ce68263fcc2df2dbbd435eea2d097c_126.json","topology":[{"baseUrl":"https:\/\/static.wixstatic.com\/","parts":"sites\/{filename}.z?v=3"},{"baseUrl":"https:\/\/staticorigin.wixstatic.com\/","parts":"sites\/{filename}.z?v=3"},{"baseUrl":"https:\/\/fallback.wix.com\/","parts":"wix-html-editor-pages-webapp\/page\/{filename}"}]},"timeSincePublish":2735,"favicon":"","deviceInfo":{"deviceType":"Desktop","browserType":"Chrome","browserVersion":58},"siteRevision":127,"sessionInfo":{"hs":1354393685,"svSession":"25e10890280b4f0b333bb7555752c2545345f12d6e9d8641e6b0caf35896fc78820ea3f3aaa88b949c55897e82dca9dc1e60994d53964e647acf431e4f798bcd35475a1d989c6a556b8815d2888cd0177762e2c3d5058cb6711d175a9f199b4d","ctToken":"LThBb3J0cXkydjZBMjVCYmdhRWZadUN4LUttY0VieVQybll5WjhYc2x4OHx7InVzZXJBZ2VudCI6Ik1vemlsbGEvNS4wIChNYWNpbnRvc2g7IEludGVsIE1hYyBPUyBYIDEwXzEyXzUpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS81OC4wLjMwMjkuMTEwIFNhZmFyaS81MzcuMzYiLCJ2YWxpZFRocm91Z2giOjE1MDE0ODE4NzA4MzR9","isAnonymous":false},"metaSiteFlags":[],"siteMembersProtectedPages":[],"indexable":false,"hasBlogAmp":false,"renderTime":1500877070835};
+
+    
+
+    var googleAnalytics = "UA-2117194-61"
+    ;
+
+    var googleRemarketing = "";
+    var facebookRemarketing = "";
+    var yandexMetrika = "";
+
+</script>
+
+
+
+            <meta name="fragment" content="!"/>
+    
+    <!-- DATA -->
+<script type="text/javascript">
+    var adData = {"topLabel":"<span class=\"smallMusa\">(Wix-Logo) </span>Skapa en <span class=\"smallLogo\">Wix</span>-hemsida!","topContent":"Hundratals mallar<br />Ingen kodning krävs<br /><span class=\"emphasis spacer\">Börja nu >></span>","footerLabel":"<div class=\"adFootBox\"><div class=\"siteBanner\" ><div class=\"siteBanner\"><div class=\"wrapper\"><div class=\"bigMusa\">(Wix Logo)</div><div class=\"txt shd\" style=\"color:#fff\">Denna hemsida skapades med </div> <div class=\"txt shd\"><a  href=\"http://sv.wix.com?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001\" style=\"color:#fff\"> WIX.com. </a></div> <div class=\"txt shd\" style=\"color:#fff\"> Skapa din egen helt GRATIS <span class=\"emphasis\"> >></span></div></div></div></div></div>","adUrl":"http://sv.wix.com/lpviral/sv-hemsida?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001"};
+    var mobileAdData = {"footerLabel":"7c3dbd_67131d7bd570478689be752141d4e28a.jpg","adUrl":"http://www.wix.com?utm_campaign=vir_wixad_live&experiment_id=abtestbanner122400001"};
+    var usersDomain = "https://users.wix.com/wix-users";
+        </script>
+        </head>
+<body>
+        <div id="SITE_CONTAINER"></div>
+
+    
+    
+    
+<div comp="wysiwyg.viewer.components.WixAds" skin="wysiwyg.viewer.skins.wixadsskins.WixAdsWebSkin" id="wixFooter"></div>
+    
+    
+    
+
+    </body>
+</html>
