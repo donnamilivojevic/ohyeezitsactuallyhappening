@@ -44,9 +44,13 @@
             <div class="col-md-2"></div>
             <div class="col-md-12">
                 <div class="col-md-8">
-                    <img class="mySlides" src="img_fjords.jpg">
-                    <img class="mySlides" src="img_lights.jpg">
-                    <img class="mySlides" src="img_mountains.jpg">
+                    <img class="mySlides" src="ohyeezitsactuallyhappening/20160711_130737.jpg">
+                    <img class="mySlides" src="ohyeezitsactuallyhappening/20160717_095930.jpg">
+                    <img class="mySlides" src="ohyeezitsactuallyhappening/20161211_111606.jpg">
+                    <img class="mySlides" src="ohyeezitsactuallyhappening/FB_IMG_1462880458902.jpg">
+                    <img class="mySlides" src="ohyeezitsactuallyhappening/IMG_20170724_0005.jpg">
+                    <img class="mySlides" src="ohyeezitsactuallyhappening/IMG_20170724_0010.jpg">
+                    <img class="mySlides" src="ohyeezitsactuallyhappening/IMG_20170724_0003.jpg">
                     <img class="mySlides" src="img_forest.jpg">
                     <img class="mySlides" src="img_fjords.jpg">
                     <img class="mySlides" src="img_lights.jpg">
@@ -56,11 +60,27 @@
                     <img class="mySlides" src="img_lights.jpg">
                     <img class="mySlides" src="img_mountains.jpg">
                     <img class="mySlides" src="img_forest.jpg">
-                    <img class="mySlides" src="img_fjords.jpg">
-                    <img class="mySlides" src="img_lights.jpg">
-                    <img class="mySlides" src="img_mountains.jpg">
-                    <img class="mySlides" src="img_forest.jpg">
+
+                    <button class="w3-button w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+                    <button class="w3-button w3-display-right" onclick="plusDivs(+1)">&#10095;</button>
                 </div>
+                <script>
+                    var myIndex = 0;
+                    carousel();
+
+                    function carousel() {
+                        var i;
+                        var x = document.getElementsByClassName("mySlides");
+                        for (i = 0; i < x.length; i++) {
+                            x[i].style.display = "none";
+                        }
+                        myIndex++;
+                        if (myIndex > x.length) { myIndex = 1 }
+                        x[myIndex - 1].style.display = "block";
+                        setTimeout(carousel, 2000); // Change image every 2 seconds
+                    }
+
+                </script>
             </div>
 </body>
 
