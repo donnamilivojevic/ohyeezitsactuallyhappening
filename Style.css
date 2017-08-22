@@ -30,14 +30,32 @@ p, li {
     font-size: 17px;
 }
 
+a{
+    color: black;
+}
+
+a:focus, a:hover{
+    color: #23527c;
+}
+
 .dropdown{
     margin-left: 150px;
     margin-top: 2%;
 }
 
+.navbar{
+    margin-bottom: 0px;
+    border: none;
+    border-radius: 0px;
+}
+
 .navbar-nav{
     margin-left: 17%;
 
+}
+
+.nav>li>a:focus, .nav>li>a:hover{
+    background-color: white;
 }
 
 .col-md-3 img {
