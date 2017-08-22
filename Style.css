@@ -58,6 +58,26 @@ a:focus, a:hover{
     background-color: white;
 }
 
+.btn-primary{
+    color: black;
+    background-color: white;
+    border-color: white;
+    background-image: none;
+    border-radius: 0px;
+}
+
+.btn-primary:focus, .btn-primary:hover{
+    background-color: white;
+    color: black;
+    border-color: white;
+}
+
+.btn-danger, .btn-default, .btn-info, .btn-primary, .btn-success, .btn-warning{
+    box-shadow: none;
+}
+
+
+
 .col-md-3 img {
     width: 100%;
     height: 300px;
